@@ -8,7 +8,7 @@
 | Names  | Programming Language |
 | ------------- | ------------- |
 | Sadiq Abdullahi  | Bash   |
-| Content Cell  | Content Cell  |
+| abdullahi yunusa | bash  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
