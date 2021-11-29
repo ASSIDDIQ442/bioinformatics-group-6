@@ -15,12 +15,12 @@
 | amina abba muhammad   | bash   |
 | haladu garba kaltume   | python   |
 |   Aisha abubakar yakubu | python   |
-|    | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|   mustapha Y muhammad |  javascript  |
+| fatma haruna papa   |  javascipt  |
+| balkisu ahmad   |  PHP  |
+| Zainab alhaji ya'u   | R   |
+|  Saifullah muhammad shehu  |  C++  |
+| Sulaiman abdullahi ibrahim   |  C  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
