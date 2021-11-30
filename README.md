@@ -12,7 +12,7 @@
 ### 6.Aisha abubakar yakubu
 ### 7.mustapha y muhammad
 ### 8.fatima haruna papa
-### 9.balkisu ahmad
+### 9.Balkisu ahmad
 ### 10.Zainab alhaji ya'u
 ### 11.saifullahi muhammad shehu
 ### 12.Sulaiman abdullahi ibrahim
