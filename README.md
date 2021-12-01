@@ -25,7 +25,7 @@
 | ------------- | ------------- |
 | Sadiq Abdullahi  | Bash   |
 | abdullahi yunusa | bash  |
-| Nazif b shehu   | c++   |
+| Nazeef B Shehu   | c++   |
 | amina abba muhammad   | bash   |
 | haladu garba kaltume   | python   |
 |   Aisha abubakar yakubu | python   |
