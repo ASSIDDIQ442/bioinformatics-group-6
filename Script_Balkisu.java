@@ -1,3 +1,4 @@
+#!/use/bin/env java
 package com.balkisu;
 
 public class ScriptBalkisu {
