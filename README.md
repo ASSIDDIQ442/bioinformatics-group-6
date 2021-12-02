@@ -1,6 +1,8 @@
 #  BIOINFORMATICS GROUP 6
-## The group is comrised of 15 members,each member has created his/her scipt using one of the programing languages
-
+## ABOUT THE GROUP
+### The group is comprised of 15 members each member was assign to use one of the programming languages,develop a script containing his/her biodata and add it to group repository.
+# ABOUT BIOINFORMATICS
+### Nowadays bioinformatics become the famous area that concerned wiyh the application of competational and statistical techniques
 
 
 ## NAME OF THE GROUP MEMBERS
