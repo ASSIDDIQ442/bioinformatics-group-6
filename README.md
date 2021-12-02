@@ -33,7 +33,7 @@
 | fatima haruna papa   |  PHP  |
 | balkisu ahmad   |  PHP  |
 | Zainab alhaji ya'u   | R   |
-|  Saifullah muhammad shehu  |    |
+|  Saifullah muhammad shehu  |  java script  |
 | Sulaiman abdullahi ibrahim   |  C  |
 | Abdullahi aminu   | C++   |
 |  Adamu abubakar sadiq | Content Cell  |
