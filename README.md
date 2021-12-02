@@ -4,7 +4,7 @@
 
 
 ## NAME OF THE GROUP MEMBERS
-### 1.Sadid abdullahi
+### 1.Sadiq Abdullahi
 ### 2.Abdullahi yunusa
 ### 3.Nazif b shehu
 ### 4.Amina abba muhammad
