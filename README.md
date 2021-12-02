@@ -2,7 +2,7 @@
 ## ABOUT THE GROUP
 ### The group is comprised of 15 members each member was assign to use one of the programming languages,develop a script containing his/her biodata and add it to group repository.
 # ABOUT BIOINFORMATICS
-### Nowadays bioinformatics become the famous area that concerned wiyh the application of competational and statistical techniques
+### Nowadays bioinformatics become the famous area that concerned wiyh the application of competational and statistical techniques.it is an inter disciplinary field,which harnesscomputer science,mathematics,physics and biology.
 
 
 ## NAME OF THE GROUP MEMBERS
