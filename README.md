@@ -39,11 +39,11 @@
 | Sulaiman abdullahi ibrahim   |  C  |
 | Abdullahi aminu   | C++   |
 |  Adamu abubakar sadiq | Content Cell  |
-|  Abdullahi auwal garba  | Content Cell  |
+|  Abdullahi auwal garba  | Python |
 
 # WORK FLOW
 ![GROUP 6 WORK FLOW-page0001 (1)](https://user-images.githubusercontent.com/94066772/144012111-ca63ce5c-f7f2-4ae2-8449-a19bd952e7de.jpg)
 # HELP
 ### we got help from different sources of network like youtube, vidmate and others.Also all group members contributed with ideas and resources needed to do the test
 # ACKNOWLEDGEMENT
-### We thanks ALLAH for giving us the opportunity to did the test within stipulated time given.we also we will  not forget you group 3 and 6 leaders for putting us through while doing our test.
+### We thank Almighty ALLAH SWT for giving us the opportunity to complete our test within stipulated time given.we also we will not forget you group 3 and 6 leaders for putting us through while doing our test.
